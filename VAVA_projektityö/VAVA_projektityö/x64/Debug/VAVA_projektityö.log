@@ -1,0 +1,8 @@
+﻿  VAVA_projektityö.cpp
+C:\Users\OMISTAJA\Desktop\VAVA_projektityö\VAVA_projektityö\VAVA_projektityö.cpp(19,6): warning C4101: 'numero': unreferenced local variable
+C:\Users\OMISTAJA\Desktop\VAVA_projektityö\VAVA_projektityö\VAVA_projektityö.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\OMISTAJA\Desktop\VAVA_projektityö\VAVA_projektityö\VAVA_projektityö.cpp(124,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\OMISTAJA\Desktop\VAVA_projektityö\VAVA_projektityö\VAVA_projektityö.cpp(125,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\OMISTAJA\Desktop\VAVA_projektityö\VAVA_projektityö\VAVA_projektityö.cpp(134,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\OMISTAJA\Desktop\VAVA_projektityö\VAVA_projektityö\VAVA_projektityö.cpp(144,11): warning C4129: ' ': unrecognized character escape sequence
+  VAVA_projektityö.vcxproj -> C:\Users\OMISTAJA\Desktop\VAVA_projektityö\x64\Debug\VAVA_projektityö.exe
