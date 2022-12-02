@@ -14,7 +14,7 @@ void tulostaSana(string sana, string kirjain);
 //Maaritetaan funktiot
 
 int main() {
-	int elamat = 7;
+	int elamat = 9;
 	int valinta;
 	int numero;
 	string kirjain;
@@ -24,7 +24,7 @@ int main() {
 	cout << "Valitse tasosi: \n1)Helppo\n2)Keskiverto\n3)Vaikea\n-->";
 	cin >> valinta;
 
-	//Validate input
+	//Katsotaan onko oikea syote
 	while (valinta < 1 || valinta > 3) {
 		system ("cls");
 		cout << "Olet valinnut vaaran numeron \n";
