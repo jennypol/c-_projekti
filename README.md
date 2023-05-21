@@ -1,6 +1,23 @@
 # c-_projekti
 Käyttäjä valitsee tason jolla halutaan pelata, tiedostossa on valmiiksi sanoja, joita käyttäjä yrittää arvata. Jos sana menee väärin menettää pelaaja yhden elämän, jolloin hirsipuuhun lisääntyy uusi kuvio.
 
+#tulostus
+
+
+from urllib.parse import urlparse
+
+def print_domains(url):
+    parsed_url = urlparse(url)
+    domains = parsed_url.netloc.split('.')
+    for i in range(len(domains) - 1):
+        print('.'.join(domains[i:]))
+
+url = input("Syötä URL: ")
+print_domains(url)
+
+
+#ohjelma
+
 import requests
 import re
 
